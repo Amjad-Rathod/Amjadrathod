@@ -1,0 +1,2 @@
+# Amjadrathod
+This is portfolio
